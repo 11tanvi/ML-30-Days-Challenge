@@ -1,4 +1,7 @@
 # 30 Days of Machine Learning
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![Progress](https://img.shields.io/badge/Progress-Day%202-green)
+![ML](https://img.shields.io/badge/Machine%20Learning-Projects-orange)
 
 This repository contains my **30 Days ML Challenge**, where I build and document one machine learning model daily.
 
@@ -19,4 +22,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib
 * Day 3 ⏳ Random Forest
 
 This challenge focuses on learning model behavior, tuning, and comparison.
+
 
