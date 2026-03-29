@@ -1,26 +1,28 @@
-# 30 Days of Machine Learning
+# 🚀 30 Days of Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-ML-blue)
-![Progress](https://img.shields.io/badge/Progress-Day%202-green)
+![Progress](https://img.shields.io/badge/Progress-Day%204-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Projects-orange)
 
-This repository contains my **30 Days ML Challenge**, where I build and document one machine learning model daily.
+This repository documents my **30 Days of Machine Learning Challenge**, where I build, experiment, and improve one ML model every day.
 
-##  Goal
-
-* Strengthen ML concepts
-* Practice model building & evaluation
-* Build a strong portfolio
+## Goal
+* Strengthen core Machine Learning concepts
+* Practice model building, tuning & evaluation
+* Build a strong, consistent ML portfolio
 
 ## Tech Stack
 
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn**
 
-## 📅 Progress
+##Progress
 
-* Day 1 ✅ Logistic Regression (85.9%)
-* Day 2 ✅ Decision Tree (84.4%)
-* Day 3 ⏳ Random Forest
+* ✅ **Day 01** — Logistic Regression (85.9%)
+* ✅ **Day 02** — Decision Tree (84.4%)
+* ✅ **Day 03** — Random Forest (91.1%)
+* ✅ **Day 04** — KNN (Best k = 8)
+* ⏳ More coming...
 
-This challenge focuses on learning model behavior, tuning, and comparison.
 
-
+⭐ Stay tuned for daily updates!
