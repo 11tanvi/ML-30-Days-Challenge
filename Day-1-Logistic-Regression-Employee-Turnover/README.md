@@ -1,4 +1,4 @@
-# Day 1 - Logistic Regression (Employee Turnover)
+# Day 01 - Logistic Regression (Employee Turnover)
 
 ## Problem
 
