@@ -25,7 +25,8 @@ This repository documents my **30 Days of Machine Learning Challenge**, where I 
 * ✅ **Day 03** — Random Forest (91.1%)
 * ✅ **Day 04** — KNN (Best k = 8)
 * ✅ **Day 05** — Model Comparison & Insights
-* ⏳ More coming...
+* ✅ **Day 06** - Feature Engineering
+* ✅ **Day 07** - Model Explainability (Feature Importance)
 * 
 ## Key Highlights
 
@@ -33,7 +34,4 @@ This repository documents my **30 Days of Machine Learning Challenge**, where I 
 * Identified **Random Forest as the best-performing model**
 * Focused on understanding model behavior, not just accuracy
 
----
-
-⭐ Stay tuned for daily updates!
 
