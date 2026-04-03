@@ -27,7 +27,8 @@ This repository documents my **30 Days of Machine Learning Challenge**, where I 
 * ✅ **Day 05** — Model Comparison & Insights
 * ✅ **Day 06** - Feature Engineering
 * ✅ **Day 07** - Model Explainability (Feature Importance)
-* 
+* ✅ **Day 08** - XGBClassifier (80.44%)
+  
 ## Key Highlights
 
 * Compared multiple ML models using Accuracy, Precision, and Recall
